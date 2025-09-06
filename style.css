@@ -141,3 +141,17 @@ h2 {
   display: block;
   color: #555;
 }
+/* Verklistor under konstnärer */
+.artist-works {
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 14px;
+  color: #444;
+}
+.artist-works li {
+  margin: 4px 0;
+}
+.artist-works a {
+  text-decoration: underline;
+}
